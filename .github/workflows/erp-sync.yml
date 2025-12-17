@@ -3,8 +3,8 @@ name: PPSU Assignment Tracker (Auto Commit)
 on:
   workflow_dispatch:
   schedule:
-    # Daily at 6 AM IST (00:30 UTC)
-    - cron: "30 0 * * *"
+    # Daily at 4 PM IST (00:30 UTC)
+    - cron: "30 10 * * *"
 
 permissions:
   contents: write
