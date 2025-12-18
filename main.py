@@ -4,6 +4,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+import pytz
 from urllib.parse import urlparse, parse_qs
 import subprocess
 from dotenv import load_dotenv
@@ -49,14 +50,14 @@ def log(level, event, message, extra=None):
         entry["extra"] = extra
     _logs.append(entry)
 
-# DATE NORMALIZATION
+# DATE NORMALIZATION to kustom format
 def normalize_datetime(date_str):
     """
-    Converts '17-12-2025 12:00 PM' -> '2025-12-17T12:00:00'
+    raw_str example: '17-12-2025 12:00 PM' (already IST)
     """
     try:
         dt = datetime.strptime(date_str, "%d-%m-%Y %I:%M %p")
-        return dt.isoformat()
+        return dt.strftime("%Yy%mM%dd%Hh%Mm%Ss")
     except Exception:
         return None
 
@@ -211,7 +212,7 @@ def main():
 
     # BUILD JSON
     data = {
-        "updated_at": datetime.utcnow().isoformat() + "Z",
+        "updated_at": datetime.now(pytz.timezone("Asia/Kolkata")).strftime("%Yy%mM%dd%Hh%Mm%Ss"),
         "assignments": []
     }
 
