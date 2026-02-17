@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026y02M16d16h41m07s",
+  "updated_at": "2026y02M17d16h40m20s",
   "assignments": [
+    {
+      "subject": "SECE4060 - Artificial Inteligence of Things",
+      "title": "Practical 6: Development of a local offline server using HTTP protocol",
+      "due": "2026y02M25d12h00m00s",
+      "content_id": "EHMCzqnSrTU"
+    },
+    {
+      "subject": "SECE4060 - Artificial Inteligence of Things",
+      "title": "Practical 5 : Walkthrough existing library for ESP8266, configure ESP8266 in station and access mode",
+      "due": "2026y02M24d12h00m00s",
+      "content_id": "K3KCipta$F8"
+    },
     {
       "subject": "SECE4060 - Artificial Inteligence of Things",
       "title": "PRACTICAL NO 02.",
@@ -26,5 +38,5 @@
       "content_id": "wuTE4f4mDXM"
     }
   ],
-  "count": 4
+  "count": 6
 }
