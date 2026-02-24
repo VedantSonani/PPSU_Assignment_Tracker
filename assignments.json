@@ -1,16 +1,22 @@
 {
-  "updated_at": "2026y02M23d16h40m56s",
+  "updated_at": "2026y02M24d16h40m33s",
   "assignments": [
     {
       "subject": "SECE4060 - Artificial Inteligence of Things",
+      "title": "Practical No-7 : Getting started with Raspberry Pi and OS installation",
+      "due": "2026y03M03d11h00m00s",
+      "content_id": "lunhq7fv6Cc"
+    },
+    {
+      "subject": "SECE4060 - Artificial Inteligence of Things",
       "title": "Practical 6: Development of a local offline server using HTTP protocol",
-      "due": "2026y02M25d12h00m00s",
+      "due": "2026y03M04d12h00m00s",
       "content_id": "EHMCzqnSrTU"
     },
     {
       "subject": "SECE4060 - Artificial Inteligence of Things",
       "title": "Practical 5 : Walkthrough existing library for ESP8266, configure ESP8266 in station and access mode",
-      "due": "2026y02M24d12h00m00s",
+      "due": "2026y03M03d12h00m00s",
       "content_id": "K3KCipta$F8"
     },
     {
@@ -33,10 +39,16 @@
     },
     {
       "subject": "SECE4070 - Computer Vision",
+      "title": "Object Recognition - Practical of 5,6,7,8",
+      "due": "2026y03M30d12h00m00s",
+      "content_id": "Ba8Khbw17k8"
+    },
+    {
+      "subject": "SECE4070 - Computer Vision",
       "title": "Create Hybrid segmentation",
-      "due": "2026y02M14d12h00m00s",
+      "due": "2026y02M28d12h00m00s",
       "content_id": "wuTE4f4mDXM"
     }
   ],
-  "count": 6
+  "count": 8
 }
