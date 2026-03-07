@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026y03M06d16h29m34s",
+  "updated_at": "2026y03M07d16h15m03s",
   "assignments": [
     {
       "subject": "SECE4060 - Artificial Inteligence of Things",
@@ -51,6 +51,12 @@
     },
     {
       "subject": "SECE4070 - Computer Vision",
+      "title": "Practical 8 Create Application based on real world problem using computer vision",
+      "due": "2026y03M31d12h00m00s",
+      "content_id": "QqI9wRBYvX0"
+    },
+    {
+      "subject": "SECE4070 - Computer Vision",
       "title": "Object Recognition - Practical of 5,6,7,8",
       "due": "2026y03M30d12h00m00s",
       "content_id": "Ba8Khbw17k8"
@@ -62,5 +68,5 @@
       "content_id": "wuTE4f4mDXM"
     }
   ],
-  "count": 10
+  "count": 11
 }
