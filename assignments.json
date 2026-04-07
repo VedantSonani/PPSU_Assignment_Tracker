@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026y04M06d16h46m10s",
+  "updated_at": "2026y04M07d16h57m06s",
   "assignments": [
+    {
+      "subject": "SECE4060 - Artificial Inteligence of Things",
+      "title": "Experimenting with Amazon AWS IoT Cloud",
+      "due": "2026y04M14d12h00m00s",
+      "content_id": "7gD0XxN9-bo"
+    },
+    {
+      "subject": "SECE4060 - Artificial Inteligence of Things",
+      "title": "Sensing IoT devices with Raspberry Pi using Python",
+      "due": "2026y04M14d12h00m00s",
+      "content_id": "9pvfKZDCnNI"
+    },
     {
       "subject": "SECE4060 - Artificial Inteligence of Things",
       "title": "practical no -05(walk through existing library for erp8266. configure esp8266 in station and access mode.",
@@ -52,7 +64,7 @@
     {
       "subject": "SECE4070 - Computer Vision",
       "title": "Lab Manual",
-      "due": "2026y04M04d12h00m00s",
+      "due": "2026y04M09d12h00m00s",
       "content_id": "7yq6X9iQ-T8"
     },
     {
@@ -110,5 +122,5 @@
       "content_id": "qGpckdqUEJM"
     }
   ],
-  "count": 18
+  "count": 20
 }
