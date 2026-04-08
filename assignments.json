@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026y04M07d16h57m06s",
+  "updated_at": "2026y04M08d16h57m52s",
   "assignments": [
     {
       "subject": "SECE4060 - Artificial Inteligence of Things",
@@ -18,12 +18,6 @@
       "title": "practical no -05(walk through existing library for erp8266. configure esp8266 in station and access mode.",
       "due": "2026y03M06d18h00m00s",
       "content_id": "NIQB-8b8kF4"
-    },
-    {
-      "subject": "SECE4060 - Artificial Inteligence of Things",
-      "title": "PRACTICAL NO-04(INTERFACING AND PROGRAMMING OF ACTUACTORS).",
-      "due": "2026y03M05d17h00m00s",
-      "content_id": "oaX9bXk97HQ"
     },
     {
       "subject": "SECE4060 - Artificial Inteligence of Things",
@@ -62,36 +56,6 @@
       "content_id": "hVwxAMJNnWE"
     },
     {
-      "subject": "SECE4070 - Computer Vision",
-      "title": "Lab Manual",
-      "due": "2026y04M09d12h00m00s",
-      "content_id": "7yq6X9iQ-T8"
-    },
-    {
-      "subject": "SECE4070 - Computer Vision",
-      "title": "Matrix implementation in Computer Vision",
-      "due": "2026y03M14d12h00m00s",
-      "content_id": "M1f3GY361a0"
-    },
-    {
-      "subject": "SECE4070 - Computer Vision",
-      "title": "Practical 8 Create Application based on real world problem using computer vision",
-      "due": "2026y03M31d12h00m00s",
-      "content_id": "QqI9wRBYvX0"
-    },
-    {
-      "subject": "SECE4070 - Computer Vision",
-      "title": "Object Recognition - Practical of 5,6,7,8",
-      "due": "2026y03M30d12h00m00s",
-      "content_id": "Ba8Khbw17k8"
-    },
-    {
-      "subject": "SECE4070 - Computer Vision",
-      "title": "Create Hybrid segmentation",
-      "due": "2026y02M28d12h00m00s",
-      "content_id": "wuTE4f4mDXM"
-    },
-    {
       "subject": "SECE4080 - Natural Language Processing",
       "title": "Text Classification based experiment",
       "due": "2026y04M11d00h00m00s",
@@ -102,6 +66,24 @@
       "title": "Named Entity Recognition experiment",
       "due": "2026y04M11d00h00m00s",
       "content_id": "VVF4PABEQ$Q"
+    },
+    {
+      "subject": "SECE4080 - Natural Language Processing",
+      "title": "WordNet usage-based experiment",
+      "due": "2026y04M11d00h00m00s",
+      "content_id": "BYNQN8rB7kQ"
+    },
+    {
+      "subject": "SECE4080 - Natural Language Processing",
+      "title": "Implementation of word sense disambiguation models",
+      "due": "2026y04M11d00h00m00s",
+      "content_id": "k8r9vpNLGg0"
+    },
+    {
+      "subject": "SECE4080 - Natural Language Processing",
+      "title": "Implementation of Bag of word model with different weighing techniques",
+      "due": "2026y04M11d00h00m00s",
+      "content_id": "GIhKkvnxIZU"
     },
     {
       "subject": "SECE4080 - Natural Language Processing",
@@ -122,5 +104,5 @@
       "content_id": "qGpckdqUEJM"
     }
   ],
-  "count": 20
+  "count": 17
 }
