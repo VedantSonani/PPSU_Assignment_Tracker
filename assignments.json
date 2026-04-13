@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026y04M12d16h33m29s",
+  "updated_at": "2026y04M13d17h17m27s",
   "assignments": [
     {
       "subject": "SECE4060 - Artificial Inteligence of Things",
@@ -57,52 +57,82 @@
     },
     {
       "subject": "SECE4080 - Natural Language Processing",
+      "title": "LAB MANUAL",
+      "due": "2026y04M18d00h00m00s",
+      "content_id": "DQJl87Q-ixA"
+    },
+    {
+      "subject": "SECE4080 - Natural Language Processing",
       "title": "Text Classification based experiment",
-      "due": "2026y04M11d00h00m00s",
+      "due": "2026y04M13d23h00m00s",
       "content_id": "832ykcKjx3c"
     },
     {
       "subject": "SECE4080 - Natural Language Processing",
       "title": "Named Entity Recognition experiment",
-      "due": "2026y04M11d00h00m00s",
+      "due": "2026y04M13d23h00m00s",
       "content_id": "VVF4PABEQ$Q"
     },
     {
       "subject": "SECE4080 - Natural Language Processing",
       "title": "WordNet usage-based experiment",
-      "due": "2026y04M11d00h00m00s",
+      "due": "2026y04M13d23h00m00s",
       "content_id": "BYNQN8rB7kQ"
     },
     {
       "subject": "SECE4080 - Natural Language Processing",
       "title": "Implementation of word sense disambiguation models",
-      "due": "2026y04M11d00h00m00s",
+      "due": "2026y04M13d23h00m00s",
       "content_id": "k8r9vpNLGg0"
     },
     {
       "subject": "SECE4080 - Natural Language Processing",
       "title": "Implementation of Bag of word model with different weighing techniques",
-      "due": "2026y04M11d00h00m00s",
+      "due": "2026y04M13d23h00m00s",
       "content_id": "GIhKkvnxIZU"
     },
     {
       "subject": "SECE4080 - Natural Language Processing",
-      "title": "Part of Speech tagging experiments",
+      "title": "N-gram analysis of text",
+      "due": "2026y04M13d23h00m00s",
+      "content_id": "-9S0KdJ4OnA"
+    },
+    {
+      "subject": "SECE4080 - Natural Language Processing",
+      "title": "Morphological analysis of text",
       "due": "2026y04M11d00h00m00s",
+      "content_id": "haCqGROcfDc"
+    },
+    {
+      "subject": "SECE4080 - Natural Language Processing",
+      "title": "Morphological analysis of text",
+      "due": "2026y04M13d23h00m00s",
+      "content_id": "wcGb3NBaEvg"
+    },
+    {
+      "subject": "SECE4080 - Natural Language Processing",
+      "title": "Root word conversion (stemming and Lemmatization)",
+      "due": "2026y04M13d23h00m00s",
+      "content_id": "tHdEQKqYy3A"
+    },
+    {
+      "subject": "SECE4080 - Natural Language Processing",
+      "title": "Part of Speech tagging experiments",
+      "due": "2026y04M13d23h00m00s",
       "content_id": "lVHRjSfud5I"
     },
     {
       "subject": "SECE4080 - Natural Language Processing",
       "title": "Text Normalization",
-      "due": "2026y04M11d00h00m00s",
+      "due": "2026y04M13d23h00m00s",
       "content_id": "bAreuiXnv-Y"
     },
     {
       "subject": "SECE4080 - Natural Language Processing",
       "title": "Introduction to NLP and related packages in Python",
-      "due": "2026y04M11d00h00m00s",
+      "due": "2026y04M13d23h00m00s",
       "content_id": "qGpckdqUEJM"
     }
   ],
-  "count": 17
+  "count": 22
 }
