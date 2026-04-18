@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026y04M17d16h45m49s",
+  "updated_at": "2026y04M18d16h34m25s",
   "assignments": [
     {
       "subject": "SECE4060 - Artificial Inteligence of Things",
@@ -57,16 +57,10 @@
     },
     {
       "subject": "SECE4080 - Natural Language Processing",
-      "title": "LAB MANUAL",
-      "due": "2026y04M18d00h00m00s",
-      "content_id": "DQJl87Q-ixA"
-    },
-    {
-      "subject": "SECE4080 - Natural Language Processing",
       "title": "Morphological analysis of text",
       "due": "2026y04M11d00h00m00s",
       "content_id": "haCqGROcfDc"
     }
   ],
-  "count": 11
+  "count": 10
 }
